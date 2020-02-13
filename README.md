@@ -23,3 +23,7 @@ You need apply the following steps:
 # make
 # make install
 ```
+
+# License
+
+php-periphery is MIT licensed. See the included [LICENSE](LICENSE) file.
